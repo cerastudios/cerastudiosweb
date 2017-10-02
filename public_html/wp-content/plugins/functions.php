@@ -10,5 +10,5 @@ Author URI: https://tellado.es
 License: GPLv2 o posterior
 */
 //restablecer url de wordpress
-update_option( 'siteurl', 'http://midominiodeverdad.com' );
-update_option( 'home', 'http://midominiodeverdad.com' );
+update_option( 'siteurl', 'https://cerastudios.cat' );
+update_option( 'home', 'https://cerastudios.cat' );
